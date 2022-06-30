@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.7</jdk.version>
 		<junit.version>4.11</junit.version>
-		<itext.version>5.0.6</itext.version>
+		<itext.version>5.5.12</itext.version>
 	</properties>
 
 	<build>
